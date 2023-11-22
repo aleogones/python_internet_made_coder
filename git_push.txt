@@ -1,0 +1,7 @@
+git add . # this line selects all files (. = all) 
+
+git commit -m "YOUR COMMIT MESSAGE" # this line commits all files selected above and makes them ready to be pushed
+
+(replace YOUR COMMIT MESSAGE with any message that you want. This will show up in Github so you can differentiate between different commits.)
+
+git push # This line pushes your code to Github
